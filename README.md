@@ -38,7 +38,7 @@ I'm a passionate Azure Architect and DevOps enthusiast with over 7 years of expe
 
 ## 📈 GitHub Stats
 
-![Contribution Snake Dark](https://raw.githubusercontent.com/JuanMeeske/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Contribution Snake Dark](dist/github-snake-dark.svg)
 
 ## 📫 Let's Connect
 
