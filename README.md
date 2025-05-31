@@ -45,7 +45,3 @@ I'm a passionate Azure Architect and DevOps enthusiast with over 7 years of expe
 - 🌐 Website: [jmsk.io](https://jmsk.io)
 - 💼 LinkedIn: [Juan Meeske](https://nl.linkedin.com/in/juanmeeske)
 - 📧 Email: [juan@jmsk.io](mailto:juan@jmsk.io)
-
----
-
-*This README was generated based on the information available on [jmsk.io](https://jmsk.io).*
